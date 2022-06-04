@@ -1,0 +1,155 @@
+body {
+    font-family: 'roboto', 'Raleway', sans-serif;
+}
+
+header{
+    position: absolute;
+width: 1600px;
+height: 80px;
+left: 0px;
+top: 0px;
+background: #ff0000;
+}
+
+.nav-manu{
+    position: absolute;
+    width: 1600px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+}
+
+.menuu-nav{
+    position: absolute;
+width: 294px;
+height: 16px;
+left: 453px;
+top: 32px;
+}
+
+.header-logo {
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+letter-spacing: 0.03em;
+color:#2196F3;
+text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+.logo-studio {
+    font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+letter-spacing: 0.03em;
+color: #000;
+}
+
+.buttons-links:hover,
+.buttons-links:focus{
+    color: #2196F3;
+    cursor: pointer;
+}
+
+.head-buttons {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #212121;
+}
+
+a{
+    text-decoration: none;
+}
+
+.main-button{
+    position: absolute;
+    width: 1600px;
+    height: 600px;
+    left: 0px;
+    top: 80px;
+    background: #2F303A;
+}
+
+.order-service{
+    position: absolute;
+width: 200px;
+height: 50px;
+left: 700px;
+top: 430px;
+}
+
+.affective-business {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.zagolovok {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+
+}
+
+.mini-zagolovok{
+    font-weight: 700;
+font-size: 14px;
+line-height: 0.8;
+letter-spacing: 0.03em;
+}
+
+.what-we-do{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+p {
+    font-weight: 400;
+font-size: 14px;
+line-height: 0.8;
+letter-spacing: 0.03em;
+color: #757575;
+}
+
+.contacts {
+    color: grey;
+}
+
+.footer {
+    background-color: #2F303A;
+}
+
+.logo-studio-footer{
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: #fff;  
+}
