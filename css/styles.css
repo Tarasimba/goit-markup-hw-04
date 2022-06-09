@@ -127,6 +127,12 @@ color: #212121;
     width: 100%;
 }
 
+.card-thumb{
+    display: flex;
+    align-items: center;
+    
+}
+
 .head-portfolio{
     width: 76px;
     height: 16px;
@@ -262,6 +268,8 @@ color: #fff;
     text-align: center;
     letter-spacing: 0.03em;
     color: #212121;
+    margin-top: 0;
+    margin-bottom: 10px;
 }
 
 .mini-zagolovok{
