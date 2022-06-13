@@ -235,6 +235,9 @@
     padding-top: var(--card-set-gap);
     padding-bottom: var(--card-set-gap);
     background-color: var(--primary-bg-color);
+    border-bottom: var(--border-work);
+    border-right: var(--border-work);
+    border-left: var(--border-work);
   }
   
   .section-items .card-content {
@@ -366,13 +369,11 @@
     flex-basis: calc(100% / 3 - var(--card-set-gap));
     margin-top: var(--card-set-gap);
     margin-left: var(--card-set-gap);
-  
-    border-bottom: var(--border-work);
   }
   
   .link .title {
     margin-top: 0;
-    margin-bottom: 0;
+    margin-bottom: 32;
   
     color: var(--primary-text-color);
     font-weight: 700;
